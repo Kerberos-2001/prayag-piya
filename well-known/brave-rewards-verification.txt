@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: prayagpiya.com.np
+Token: 77175efcc0078323baa3baf001837ceee54b0722adf3d93d8f6cd98be99fecb3
